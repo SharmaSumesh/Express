@@ -1,0 +1,9 @@
+Express framework of Js which run in backend manage the server and routes
+it can be use d to design the singke page and multi page web applications
+how to install express :- 
+npm i express
+why we use express: -
+fast 
+work on routes and server 
+MVC like structure 
+single threaded  
